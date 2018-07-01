@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="main_activity_text">PenIT</string>
+    <string name="register_activity_text">PenIT</string>
+    <string name="sign_in_information">Sign in with your Google Account</string>
+    <string name="entry_subject">Subject</string>
+    <string name="entry_message">Write here...</string>
+    <string name="entry_date">Time/Date entered</string>
+    <string name="save_entry_button">Save your thoughts!</string>
+    <string name="entry_default_header">What\'s on your mind</string>
+    <string name="add_entry">Add Entry</string>
+</resources>
